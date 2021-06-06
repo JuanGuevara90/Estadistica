@@ -7,3 +7,4 @@ En este repositorio se encuentra en el materia usado en la Materiade Estadístic
 Link: https://www.r-project.org
 2) Instalar R Studio 
 https://www.rstudio.com
+3) Carpeta Distribuciòn de Frecuencias en R / Introducciòn
